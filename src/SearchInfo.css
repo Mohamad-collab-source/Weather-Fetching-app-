@@ -1,0 +1,8 @@
+.Info{
+    text-align: center;
+}
+.card-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
